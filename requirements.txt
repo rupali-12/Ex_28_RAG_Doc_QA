@@ -1,4 +1,5 @@
 langchain_groq
 langchain_openai
 langchain_community
-dotenv
+python-dotenv==1.0.0
+
