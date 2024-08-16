@@ -6,4 +6,4 @@
 
 # Deployed Link
 
-[DEPLOYED_LINK]()
+[DEPLOYED_LINK](https://ex28ragdocapp-jvuaesigme82sj3f3qzj26.streamlit.app/)
